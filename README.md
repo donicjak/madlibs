@@ -1,0 +1,1 @@
+A small python project to test out my basic skills working with strings.
